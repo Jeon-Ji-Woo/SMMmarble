@@ -4,6 +4,7 @@
 #define MAX_NODETYPE    7
 #define MAX_GRADE       9
 #define MAX_NODE        100
+
 static char smmNodeName[SMMNODE_TYPE_MAX][MAX_CHARNAME] = {
        "강의",
        "식당",
